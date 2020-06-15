@@ -17,7 +17,7 @@ New Product
 
 <br>
 
-## :rocket: Tecnologias
+## :rocket: &nbsp; Tecnologias
 
 This project was developed with the following technologies:
 ### [](https://github.com/vop1234/NewProduct) Dependencies
@@ -27,16 +27,16 @@ This project was developed with the following technologies:
 - ["sqlite3": "^4.1.1"](https://www.sqlite.org/index.html)
  
 
-:computer: ## Project
+## :computer:  &nbsp; Project
 The back end was developed with the following routes:
 
- ➡ <p> '/ products' with the "get" method to list the registered products, with the answer in JSON. </p>
- ➡ <p> '/ products' with the "post" method to store a new product in the database.</p>
- ➡ <p> '/ products /: id' with the "get" method to list a specific product by passing its ID as a parameter.</p>
- ➡ <p> '/ products /: id' with the "put" method to change data for a specific product.</p>
- ➡ <p> '/ products /: id' with the "delete" method to delete a specific product from the database.</p>
+ ➡  &nbsp;<p> '/ products' with the "get" method to list the registered products, with the answer in JSON. </p>
+ ➡  &nbsp;<p> '/ products' with the "post" method to store a new product in the database.</p>
+ ➡  &nbsp;<p> '/ products /: id' with the "get" method to list a specific product by passing its ID as a parameter.</p>
+ ➡  &nbsp;<p> '/ products /: id' with the "put" method to change data for a specific product.</p>
+ ➡  &nbsp;<p> '/ products /: id' with the "delete" method to delete a specific product from the database.</p>
 
-## 🤔   How to contribute
+## 🤔   &nbsp; How to contribute
 - Fork this repository;
 - Create a branch with your feature: `git checkout -b <i>minha-feature</i>`;
 - Commit your changes: `git commit -m 'feat: Minha nova feature'`;
@@ -44,7 +44,7 @@ The back end was developed with the following routes:
 
 After merging your receipt request to done, you can delete a branch from yours.
 
-## :memo: License
+## :memo:  &nbsp; License
 
 This project is under the MIT license.
 
