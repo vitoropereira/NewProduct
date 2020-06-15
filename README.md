@@ -30,11 +30,11 @@ This project was developed with the following technologies:
 ## :computer: Project
 The back end was developed with the following routes:
 
--> '/ products' with the "get" method to list the registered products, with the answer in JSON.
--> '/ products' with the "post" method to store a new product in the database.
--> '/ products /: id' with the "get" method to list a specific product by passing its ID as a parameter.
--> '/ products /: id' with the "put" method to change data for a specific product.
--> '/ products /: id' with the "delete" method to delete a specific product from the database.
+<p> ➡ '/ products' with the "get" method to list the registered products, with the answer in JSON. </p>
+<p> ➡'/ products' with the "post" method to store a new product in the database.</p>
+<p> ➡ '/ products /: id' with the "get" method to list a specific product by passing its ID as a parameter.</p>
+<p> ➡ '/ products /: id' with the "put" method to change data for a specific product.</p>
+<p> ➡ '/ products /: id' with the "delete" method to delete a specific product from the database.</p>
 
 ## 🤔 How to contribute
 - Fork this repository;
