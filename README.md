@@ -27,14 +27,14 @@ This project was developed with the following technologies:
 - ["sqlite3": "^4.1.1"](https://www.sqlite.org/index.html)
  
 
-## :computer:   Project
+:computer: ## Project
 The back end was developed with the following routes:
 
-<p> ➡ '/ products' with the "get" method to list the registered products, with the answer in JSON. </p>
-<p> ➡'/ products' with the "post" method to store a new product in the database.</p>
-<p> ➡ '/ products /: id' with the "get" method to list a specific product by passing its ID as a parameter.</p>
-<p> ➡ '/ products /: id' with the "put" method to change data for a specific product.</p>
-<p> ➡ '/ products /: id' with the "delete" method to delete a specific product from the database.</p>
+ ➡ <p> '/ products' with the "get" method to list the registered products, with the answer in JSON. </p>
+ ➡ <p> '/ products' with the "post" method to store a new product in the database.</p>
+ ➡ <p> '/ products /: id' with the "get" method to list a specific product by passing its ID as a parameter.</p>
+ ➡ <p> '/ products /: id' with the "put" method to change data for a specific product.</p>
+ ➡ <p> '/ products /: id' with the "delete" method to delete a specific product from the database.</p>
 
 ## 🤔   How to contribute
 - Fork this repository;
