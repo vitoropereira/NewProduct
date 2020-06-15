@@ -27,7 +27,7 @@ This project was developed with the following technologies:
 - ["sqlite3": "^4.1.1"](https://www.sqlite.org/index.html)
  
 
-## :computer: Project
+## :computer:   Project
 The back end was developed with the following routes:
 
 <p> ➡ '/ products' with the "get" method to list the registered products, with the answer in JSON. </p>
@@ -36,7 +36,7 @@ The back end was developed with the following routes:
 <p> ➡ '/ products /: id' with the "put" method to change data for a specific product.</p>
 <p> ➡ '/ products /: id' with the "delete" method to delete a specific product from the database.</p>
 
-## 🤔 How to contribute
+## 🤔   How to contribute
 - Fork this repository;
 - Create a branch with your feature: `git checkout -b <i>minha-feature</i>`;
 - Commit your changes: `git commit -m 'feat: Minha nova feature'`;
